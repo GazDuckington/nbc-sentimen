@@ -8,7 +8,7 @@ greenlet==3.0.3
 iniconfig==2.0.0
 joblib==1.4.2
 mypy-extensions==1.0.0
-nltk==3.8.1
+nltk==3.9.1
 numpy==1.26.2
 packaging==23.2
 pandas==2.2.1
